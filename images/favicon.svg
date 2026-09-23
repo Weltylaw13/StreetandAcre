@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#F4EFE6"/>
+  <line x1="40" y1="8" x2="24" y2="56" stroke="#B35C3B" stroke-width="2"/>
+  <text x="8" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#2F3438">S</text>
+  <text x="33" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#2F3438">A</text>
+</svg>
